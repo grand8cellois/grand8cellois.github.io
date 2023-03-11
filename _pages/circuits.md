@@ -51,11 +51,6 @@ Pensez à **emmener de quoi vous hydrater** (bidon ou poche à eau).
 
 ## Parcours balisés de 10km à 54km
 
-En 2022, le G8C est organisé conjointement par
-le club des [Choucas Cellois](https://leschoucascellois.github.io/)
-et par
-le [Club Cyclotouriste de Versailles-Porchefontaine](http://versaillesvelo.e-monsite.com/).
-
 La randonnée débute entre 8h et 10h
 au [Stade Pierre Corneille](https://www.google.fr/maps/place/Lyc%C3%A9e+Pierre+Corneille/@48.8458771,2.1346415,17z/data=!3m1!4b1!4m6!3m5!1s0x47e67d26bc561205:0x4818450eb2a318df!8m2!3d48.8458771!4d2.1368302!16s%2Fg%2F11dzdvkqhg),
 10 rue Corneille,
