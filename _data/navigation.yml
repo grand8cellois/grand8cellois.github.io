@@ -1,0 +1,6 @@
+# This file controls the main navigation bar.
+main:
+  - title: Actualités
+    url: /actualites/
+  - title: Contact
+    url: mailto:contact_mail@leschoucascellois.org

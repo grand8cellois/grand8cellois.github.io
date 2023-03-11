@@ -1,0 +1,42 @@
+# This configuration file contains settings that affect the whole site.
+#
+# For technical reasons, this file is *not* reloaded automatically when
+# you use 'bundle exec jekyll serve'. If you change this file, please
+# restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you:
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# The site settings can be used inside a page via {{ site.title }},
+# {{ site.email }}, and so on. You can create any custom variable
+# you would like, and it will be accessible, too.
+
+locale: "fr"
+title: Grand Huit Cellois
+description: >- # this means to ignore newlines until "baseurl:"
+  Grand Huit Cellois, randonnée VTT, La Celle Saint-Cloud, Yvelines, France.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+github_username: grand8cellois
+logo: "/assets/images/Logo-Montagne_64-alpha.png"
+
+# Deploying on Github Pages requires `remote_theme:`
+#       but testing offline requires `theme:`.
+# See the Makefile for details.
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
+
+# Look for files inside the following directories:
+include: ["_pages"]
+
+# Configuration of the footer that appears at the bottom of each page.
+footer:
+  links:
+  - label: "Email"
+    icon: "fa fa-envelope"
+    url: "mailto:contact_mail@leschoucascellois.org"
+  - label: "Mentions légales"
+    url: "/mentions_legales/"
