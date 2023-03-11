@@ -2,5 +2,7 @@
 main:
   - title: Actualités
     url: /actualites/
+  - title: Circuits
+    url: /circuits/
   - title: Contact
     url: mailto:contact_mail@leschoucascellois.org
