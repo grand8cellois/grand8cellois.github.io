@@ -6,29 +6,13 @@ permalink: /circuits/
 header:
   overlay_image: /assets/images/bandeaux/animation.webp
 gallery1:
-  - url: /assets/images/2022/itineraires-et-horaires.jpg
-    image_path: /assets/images/2022/itineraires-et-horaires-1024.jpg
-    title: "Itinéraires et horaires"
+  - url: /assets/images/2023/parcours.jpg
+    image_path: /assets/images/2023/parcours-1024.jpg
+    title: "Parcours VTT"
 gallery2:
-  - url: /assets/images/2022/10km.jpg
-    image_path: /assets/images/2022/10km-512.jpg
-    title: "Circuit de 10km"
-  - url: /assets/images/2022/20km.jpg
-    image_path: /assets/images/2022/20km-512.jpg
-    title: "Circuit de 20km"
-  - url: /assets/images/2022/45km.jpg
-    image_path: /assets/images/2022/45km-512.jpg
-    title: "Circuit de 45km"
-  - url: /assets/images/2022/54km.jpg
-    image_path: /assets/images/2022/54km-512.jpg
-    title: "Circuit de 54km"
-gallery3:
-  - url: /assets/images/2022/70km.jpg
-    image_path: /assets/images/2022/70km-512.jpg
-    title: "Circuit de 70km"
-  - url: /assets/images/2022/81km.jpg
-    image_path: /assets/images/2022/81km-512.jpg
-    title: "Circuit de 81km"
+  - url: /assets/images/2023/run-and-bike.jpg
+    image_path: /assets/images/2023/run-and-bike-1024.jpg
+    title: "Parcours du run & bike"
 ---
 
 Nous vous proposons deux types de circuits:
@@ -40,8 +24,8 @@ Nous vous proposons deux types de circuits:
   d'une longueur de 10km à 54km;
 
 + pour les **VTTistes très sportifs et entraînés**,
-  [des parcours **non balisés**](#parcours-non-balisés-de-70km-et-81km)
-  de 70km ou 81km.
+  [des parcours **non balisés**](#parcours-non-balisés-de-70km-et-80km)
+  de 70km et 80km.
 
 Le code de la route devra être respecté en toutes circonstances.
 **Le port du casque et des gants est très fortement recommandé.**
@@ -52,12 +36,9 @@ Pensez à **emmener de quoi vous hydrater** (bidon ou poche à eau).
 ## Parcours balisés de 10km à 54km
 
 La randonnée débute entre 8h et 10h
-au [Stade Pierre Corneille](https://www.google.fr/maps/place/Lyc%C3%A9e+Pierre+Corneille/@48.8458771,2.1346415,17z/data=!3m1!4b1!4m6!3m5!1s0x47e67d26bc561205:0x4818450eb2a318df!8m2!3d48.8458771!4d2.1368302!16s%2Fg%2F11dzdvkqhg),
-10 rue Corneille,
+au [Stade Pierre Corneille](/situation/),
+10 avenue Pierre Corneille,
 La Celle Saint-Cloud.
-Le stade se situe
-à deux minutes de la gare de La Celle Saint-Cloud,
-accessible depuis Paris Saint-Lazare et La Défense via la ligne L du Transilien.
 
 Après environ 25km de parcours dans les forêts de Marly et Fausses-Reposes et
 après la traversée de Viroflay, elle atteint le local du club CCVP (63 rue
@@ -68,19 +49,19 @@ se fait dans le sens anti-horaire.
 
 Le parcours complet de 54km, entièrement balisé, permet, grâce à une série de
 raccourcis, d'offrir aux participants des tracés dont les distances et les
-dénivelées sont adaptés à chacun. Le parcours de 10km est adapté aux familles
+dénivelées sont adaptées à chacun. Le parcours de 10km est adapté aux familles
 avec jeunes enfants; le parcours de 20km est destiné aux familles plus
 sportives; les parcours de 45km et 54km s'adressent aux sportifs confirmés.
 
-{% include gallery id="gallery2" %}
-
-## Parcours non balisés de 70km et 81km
+## Parcours non balisés de 70km et 80km
 
 Deux boucles complémentaires, qui viennent s'ajouter au parcours de 54km,
-permettent d'augmenter la distance jusqu'à 70km ou 81km. Ces portions de
+permettent d'augmenter la distance jusqu'à 70km ou 80km. Ces portions de
 parcours sont non balisées, et sont réservés aux sportifs chevronnés et
 entraînés, qui devront les parcourir en complète autonomie. L'inscription est
 limitée à 50 participants sur chacun de ces parcours. Un point d'eau est prévu
 et se situe aux environs du km 44 (sur la boucle 70km).
 
-{% include gallery id="gallery3" %}
+## Run & Bike
+
+{% include gallery id="gallery2" %}
