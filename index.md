@@ -3,6 +3,9 @@ layout: single
 classes: wide
 header:
   image: /assets/images/bandeaux/animation.webp
+sidebar:
+  - text: |
+      [![img](/assets/images/2023/affiche.png)](/assets/images/2023/affiche.pdf)
 logos:
   - url: https://leschoucascellois.github.io/
     image_path: /assets/images/logos/choucas.jpg
