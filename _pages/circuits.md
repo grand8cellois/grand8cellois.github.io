@@ -44,8 +44,8 @@ Après environ 25km de parcours dans les forêts de Marly et Fausses-Reposes et
 après la traversée de Viroflay, elle atteint le local du club CCVP (63 rue
 Rémont, Versailles), où s'effectue le ravitaillement. La randonnée se poursuit
 ensuite dans le massif forestier de Meudon, puis traverse Chaville, pour
-revenir au Stade Corneille, où s'effectue le ravitaillement final. Le parcours
-se fait dans le sens anti-horaire.
+revenir au Stade Corneille, où s'effectue le ravitaillement final. En 2023,
+le parcours se fait dans le sens horaire.
 
 Le parcours complet de 54km, entièrement balisé, permet, grâce à une série de
 raccourcis, d'offrir aux participants des tracés dont les distances et les
