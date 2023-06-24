@@ -4,5 +4,7 @@ main:
     url: /actualites/
   - title: Circuits
     url: /circuits/
+  - title: Situation
+    url: /situation/
   - title: Contact
     url: mailto:contact_mail@leschoucascellois.org

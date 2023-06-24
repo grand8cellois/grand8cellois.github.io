@@ -25,10 +25,10 @@ chaque année **en septembre** au départ de **La Celle Saint-Cloud**
 
 Nous vous proposons [des parcours VTT balisés de 10 à 54km](/circuits/)
 ainsi que [deux parcours VTT non balisés de 70 et 80km](/circuits/).
-En 2023, nous innovons et vous proposons également un **bike & run**
+En 2023, nous innovons et vous proposons également un **run & bike**
 le long du circuit balisé de 10km.
 
-Le point de départ et d'arrivée se situe au [Stade Pierre Corneille](https://www.google.fr/maps/place/Lyc%C3%A9e+Pierre+Corneille/@48.8458771,2.1346415,17z/data=!3m1!4b1!4m6!3m5!1s0x47e67d26bc561205:0x4818450eb2a318df!8m2!3d48.8458771!4d2.1368302!16s%2Fg%2F11dzdvkqhg)
+Le point de départ et d'arrivée se situe au [Stade Pierre Corneille](/situation/)
 à La Celle Saint-Cloud,
 à deux minutes de la gare de La Celle Saint-Cloud,
 accessible depuis Paris Saint-Lazare et La Défense via la ligne L du Transilien.
@@ -39,5 +39,8 @@ et par
 le [Club Cyclotouriste de Versailles-Porchefontaine](http://versaillesvelo.e-monsite.com/).
 Le Bike & Run est organisé par
 [l'Athletic Club Cellois](http://accellois.athle.com/).
+Les organisateurs remercient les mairies de la Celle Saint-Cloud et de
+Versailles et leurs services des sports, qui nous permettent d’utiliser leurs
+installations.
 
 {% include gallery id="logos" %}
