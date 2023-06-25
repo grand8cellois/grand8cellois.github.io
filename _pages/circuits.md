@@ -35,17 +35,21 @@ Pensez à **emmener de quoi vous hydrater** (bidon ou poche à eau).
 
 ## Parcours balisés de 10km à 54km
 
-La randonnée débute entre 8h et 10h
+La randonnée débute **entre 8h et 10h**
 au [Stade Pierre Corneille](/situation/),
 10 avenue Pierre Corneille,
 La Celle Saint-Cloud.
 
-Après environ 25km de parcours dans les forêts de Marly et Fausses-Reposes et
-après la traversée de Viroflay, elle atteint le local du club CCVP (63 rue
-Rémont, Versailles), où s'effectue le ravitaillement. La randonnée se poursuit
-ensuite dans le massif forestier de Meudon, puis traverse Chaville, pour
-revenir au Stade Corneille, où s'effectue le ravitaillement final. En 2023,
-le parcours se fait dans le sens horaire.
+En 2023, le parcours se fait **dans le sens horaire**.
+
+Après un parcours dans les forêts de Fausses-Reposes et de Meudon, elle passe à
+la maison des sports de Porchefontaine où s'effectue le **ravitaillement**.
+Sur le parcours de 45km, ce ravitaillement se situe au kilomètre 21. Sur les
+parcours de 54, 70 et 80km, il se situe au kilomètre 29.
+
+La randonnée revient ensuite, à travers Fausses-Reposes,vers La Celle
+Saint-Cloud, puis effectue une boucle en forêt de Marly, avant de revenir au
+Stade Corneille, où se situent l'arrivée et le ravitaillement final.
 
 Le parcours complet de 54km, entièrement balisé, permet, grâce à une série de
 raccourcis, d'offrir aux participants des tracés dont les distances et les
@@ -55,12 +59,17 @@ sportives; les parcours de 45km et 54km s'adressent aux sportifs confirmés.
 
 ## Parcours non balisés de 70km et 80km
 
-Deux boucles complémentaires, qui viennent s'ajouter au parcours de 54km,
-permettent d'augmenter la distance jusqu'à 70km ou 80km. Ces portions de
-parcours sont non balisées, et sont réservés aux sportifs chevronnés et
-entraînés, qui devront les parcourir en complète autonomie. L'inscription est
-limitée à 50 participants sur chacun de ces parcours. Un point d'eau est prévu
-et se situe aux environs du km 44 (sur la boucle 70km).
+Deux boucles complémentaires, tracées en forêt de Marly, viennent s'ajouter au
+parcours de 54km, et permettent d'augmenter la distance jusqu'à 70km ou 80km.
+
+Ces portions de parcours sont **non balisées** et sont réservés aux sportifs
+chevronnés et entraînés, qui devront les parcourir en complète autonomie.
+
+L'inscription est limitée à 50 participants sur chacun de ces parcours.
+
+Un point d'eau est prévu et se situera aux environs du kilomètre 46. Le seul
+ravitaillement est celui situé au kilomètre 29. Deux barres énergétiques
+seront distribuées aux participants au départ.
 
 ## Run & Bike
 
