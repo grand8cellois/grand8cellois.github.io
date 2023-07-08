@@ -27,7 +27,9 @@ Nous vous proposons deux types de circuits:
   [des parcours **non balisés**](#parcours-non-balisés-de-70km-et-80km)
   de 70km et 80km.
 
-Le code de la route devra être respecté en toutes circonstances.
+Le code de la route et le [règlement](/reglement/)
+devront être respectés en toutes circonstances.
+**Les mineurs doivent être accompagnés** d'un adulte.
 **Le port du casque et des gants est très fortement recommandé.**
 Pensez à **emmener de quoi vous hydrater** (bidon ou poche à eau).
 
