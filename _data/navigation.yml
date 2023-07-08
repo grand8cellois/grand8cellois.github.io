@@ -6,5 +6,7 @@ main:
     url: /circuits/
   - title: Situation
     url: /situation/
+  - title: Règlement
+    url: /reglement/
   - title: Contact
     url: mailto:contact_mail@leschoucascellois.org
