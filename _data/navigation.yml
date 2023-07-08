@@ -8,5 +8,7 @@ main:
     url: /situation/
   - title: Règlement
     url: /reglement/
+  - title: Inscriptions
+    url: /inscriptions/
   - title: Contact
     url: mailto:contact_mail@leschoucascellois.org
