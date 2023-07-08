@@ -9,10 +9,3 @@
 
 * Demander à Pierre les traces (et les images des profils?).
   Mettre en place le lien caché vers la page des traces.
-
-* Ajouter la page Inscriptions.
-    (s'inspirer du site actuel)
-  Décrire les tarifs. (12 euros par couple pour le run & bike.)
-  Pour le moment pas encore ouvertes.
-  Plus tard, mettre les liens vers les pages HelloAsso.
-  Trois sections: parcours balisés, non balisés, run & bike.
