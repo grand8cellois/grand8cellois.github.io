@@ -19,11 +19,11 @@ animation.webp: $(FRAMES)
 # The source image is Marly.
 # A caption is superimposed in the lower left corner.
 # The poster is superimposed in the lower right corner.
-G8C.png: Marly.png
+G8C.png: Marly.png Makefile
 	magick convert $< \
 	  -font helvetica -fill white -pointsize 72 \
-	  -gravity southwest -annotate +60+60 "Grand Huit Cellois\\n17 septembre 2023" \
-	  "(" $(POSTER) -resize 256 ")" -gravity southeast -geometry +60+60 -composite \
+	  -gravity southwest -annotate +50+50 "Grand Huit Cellois\\n17 septembre 2023" \
+	  "(" $(POSTER) -resize 210 ")" -gravity southeast -geometry +50+50 -composite \
 	  $@
 
 .PHONY: clean
