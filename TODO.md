@@ -1,12 +1,18 @@
-+ faire figurer le logo du G8C quelque part?
+* demander à Laurent Lecoq s'il a de bonnes photos du G8C
+  qui pourraient faire photo de page d'accueil
+  (photo prise avec un drone?)
 
-+ faire figurer le règlement officiel
+* Superposer le titre sur la photo, avec la date;
+  et/ou incruster l'affiche dans l'image d'accueil.
 
-+ préparer la page des préinscriptions,
-  qui décrit le processus et envoie vers HelloAsso
-  (s'inspirer du site actuel)
+* Page Circuits, ajouter quelques photos pour agrémenter la page?
 
-+ décrire le bike & run sur la page des circuits
+* Demander à Pierre les traces (et les images des profils?).
+  Mettre en place le lien caché vers la page des traces.
 
-+ mettre à jour la page des tracés;
-  ajouter quelques photos dynamiques
+* Ajouter la page Inscriptions.
+    (s'inspirer du site actuel)
+  Décrire les tarifs. (12 euros par couple pour le run & bike.)
+  Pour le moment pas encore ouvertes.
+  Plus tard, mettre les liens vers les pages HelloAsso.
+  Trois sections: parcours balisés, non balisés, run & bike.
