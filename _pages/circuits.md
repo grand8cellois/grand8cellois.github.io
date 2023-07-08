@@ -73,4 +73,10 @@ seront distribuées aux participants au départ.
 
 ## Run & Bike
 
+La boucle de 10km en format « Run & Bike » se réalise en couple: un randonneur
+à pied et un à VTT.
+Le départ est libre et non chronométré.
+Le randonneur pédestre et le cycliste VTT doivent se mouvoir conjointement,
+sans écart entre les 2 participants.
+
 {% include gallery id="gallery2" %}
