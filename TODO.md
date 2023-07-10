@@ -4,5 +4,11 @@
 
 * Page Circuits, ajouter quelques photos pour agrémenter la page?
 
-* Demander à Pierre les traces (et les images des profils?).
-  Mettre en place le lien caché vers la page des traces.
+* Mettre les images des profils sur la page des traces?
+
+* Pour le run & bike: inscription possible sur place ou non?
+  au même tarif ou non?
+
+* "Changer le bandeau du haut avec les 2 logos de club."
+  Sur la page d'accueil seulement, ou sur toutes les pages?
+  Et seulement les 2 clubs VTT ou bien les 3 clubs?
