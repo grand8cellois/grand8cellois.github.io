@@ -11,41 +11,53 @@ sidebar:
 ---
 
 Nous vous recommandons de vous pré-inscrire en ligne.
-Vous paierez 2 euros de moins qu'en vous inscrivant sur place.
+Vous paierez 1 euro de moins qu'en vous inscrivant sur place.
 De plus, les traces GPX seront envoyées à l'avance
 à tous les participants pré-inscrits.
 
 ## Parcours balisés de 10km à 54km
 
-La pré-inscription en ligne par carte bancaire
-**n'est pas encore ouverte**.
-Nous prévoyons de l'ouvrir vers mi-juillet 2023.
+La [pré-inscription en ligne](https://www.helloasso.com/associations/les-choucas-cellois/evenements/le-grand-8-cellois-2023)
+via le site HelloAsso
+est ouverte.
 
 Le tarif pour une pré-inscription en ligne est de
-6 euros pour les licenciés FFCT et
-8 euros pour les non licenciés.
-L'inscription est gratuite pour les moins de 18 ans.
+**7 euros** pour les licenciés FFCT et
+**9 euros** pour les non licenciés.
+L'inscription est **gratuite pour les mineurs**,
+qui doivent être accompagnés.
 
-L'inscription sur place le jour même est également possible
-pour un tarif majoré de 2 euros.
+Le parcours comprend un ravitaillement.
+Un sandwich et une boisson sont distribués à l'arrivée.
+
+L'inscription sur place le jour même est possible
+pour un tarif majoré de 1 euro.
 
 ## Parcours non balisés de 70km et 80km
 
-La pré-inscription en ligne par carte bancaire
-**n'est pas encore ouverte**.
-Nous prévoyons de l'ouvrir vers mi-juillet 2023.
+La [pré-inscription en ligne](https://www.helloasso.com/associations/les-choucas-cellois/evenements/le-grand-70-80-cellois-2022-2)
+via le site HelloAsso
+est ouverte.
 
 Le tarif pour une pré-inscription en ligne est de
-6 euros pour les licenciés FFCT et
-8 euros pour les non licenciés.
+**7 euros** pour les licenciés FFCT et
+**9 euros** pour les non licenciés.
+L'inscription est **gratuite pour les mineurs**,
+qui doivent être accompagnés.
+
+Deux barres énergétiques sont distribuées au départ.
 Le parcours comprend un ravitaillement et un point d'eau.
-Des barres et gels seront distribués au départ.
+Un sandwich et une boisson sont distribués à l'arrivée.
 
 L'inscription sur place le jour même **n'est pas possible**.
 
 ## Run & Bike de 10km
 
-Le tarif pour le run & bike est de **12 euros par couple**.
+La [pré-inscription en ligne](https://www.helloasso.com/associations/les-choucas-cellois/evenements/le-grand-8-cellois-run-bike-10-km)
+via le site HelloAsso
+est ouverte.
+
+Le tarif pour est de **12 euros par couple**.
 
 ## Inscription Club
 
