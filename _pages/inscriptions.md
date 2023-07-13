@@ -57,7 +57,7 @@ La [pré-inscription en ligne](https://www.helloasso.com/associations/les-chouca
 via le site HelloAsso
 est ouverte.
 
-Le tarif pour est de **12 euros par couple**.
+Le tarif est de **12 euros par couple**.
 
 L'inscription sur place le jour même est possible
 pour un tarif majoré de 2 euros.
