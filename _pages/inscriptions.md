@@ -59,7 +59,8 @@ est ouverte.
 
 Le tarif pour est de **12 euros par couple**.
 
-L'inscription sur place le jour même est possible également.
+L'inscription sur place le jour même est possible
+pour un tarif majoré de 2 euros.
 
 ## Inscription Club
 
