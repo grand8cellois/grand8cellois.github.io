@@ -4,7 +4,7 @@ classes: wide
 title: Inscriptions
 permalink: /inscriptions/
 header:
-  overlay_image: /assets/images/bandeaux/animation.webp
+  overlay_image: /assets/images/bandeaux/Marly-processed.webp
 sidebar:
   - text: |
       [![img](/assets/images/2023/affiche.png)](/assets/images/2023/affiche.pdf)

@@ -4,7 +4,7 @@ classes: wide
 title: Circuits
 permalink: /circuits/
 header:
-  overlay_image: /assets/images/bandeaux/animation.webp
+  overlay_image: /assets/images/bandeaux/Marly-processed.webp
 gallery1:
   - url: /assets/images/2023/parcours.jpg
     image_path: /assets/images/2023/parcours-1024.jpg

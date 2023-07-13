@@ -4,7 +4,7 @@ classes: wide
 title: Mentions légales
 permalink: /mentions_legales/
 header:
-  overlay_image: /assets/images/bandeaux/animation.webp
+  overlay_image: /assets/images/bandeaux/Marly-processed.webp
 ---
 
 # Mentions légales

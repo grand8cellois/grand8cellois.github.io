@@ -1,30 +1,35 @@
-# The .webp images form the frames of the animation.
-FRAMES := G8C.webp
+# We assume that every .jpg file is a source image.
+# We show the most recent images first.
+IMAGES := $(shell ls *.jpg | sort -r)
+# The processed .webp images form the frames of the animation.
+FRAMES := $(patsubst %.jpg,%-processed.webp,$(IMAGES))
 # Delay, in milliseconds.
 DELAY  := 5000
-# The poster.
-POSTER := ../2023/affiche.png
 
 animation.webp: $(FRAMES)
 	webpmux $(patsubst %.webp,-frame %.webp +$(DELAY),$(FRAMES)) -o $@
-
-# Convert .png to .webp.
-%.webp: %.png
-	cwebp $< -o $@
 
 # Convert .jpg to .png.
 %.png: %.jpg
 	magick convert $< $@
 
-# The source image is Marly.
+# The poster.
+POSTER := ../2023/affiche.png
+
+# Each source image is processed as follows.
 # A caption is superimposed in the lower left corner.
 # The poster is superimposed in the lower right corner.
-G8C.png: Marly.png Makefile
+%-processed.png: %.png Makefile
 	magick convert $< \
 	  -font helvetica -fill white -pointsize 72 \
 	  -gravity southwest -annotate +50+50 "Grand Huit Cellois\\n17 septembre 2023" \
 	  "(" $(POSTER) -resize 210 ")" -gravity southeast -geometry +50+50 -composite \
 	  $@
+
+# Convert .png to .webp.
+# -q is the quality factor.
+%.webp: %.png
+	cwebp -q 40 $< -o $@
 
 .PHONY: clean
 clean:

@@ -4,7 +4,7 @@ classes: wide
 title: Traces
 permalink: /ihiePe6z/
 header:
-  overlay_image: /assets/images/bandeaux/animation.webp
+  overlay_image: /assets/images/bandeaux/Marly-processed.webp
 ---
 
 ## Parcours balisés de 10km à 54km

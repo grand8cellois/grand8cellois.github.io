@@ -4,7 +4,7 @@ classes: wide
 title: Règlement
 permalink: /reglement/
 header:
-  overlay_image: /assets/images/bandeaux/animation.webp
+  overlay_image: /assets/images/bandeaux/Marly-processed.webp
 ---
 
 L'inscription à la randonnée implique de fait l'acceptation du présent règlement.

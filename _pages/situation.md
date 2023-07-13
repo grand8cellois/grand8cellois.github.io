@@ -4,7 +4,7 @@ classes: wide
 title: Situation
 permalink: /situation/
 header:
-  overlay_image: /assets/images/bandeaux/animation.webp
+  overlay_image: /assets/images/bandeaux/Marly-processed.webp
 ---
 
 Le point de départ et d'arrivée se situe au **Stade Pierre Corneille**,
