@@ -43,4 +43,7 @@ Les organisateurs remercient les mairies de la Celle Saint-Cloud et de
 Versailles et leurs services des sports, qui nous permettent d’utiliser leurs
 installations.
 
+Maintenant que vous savez tout, il vous reste à
+[vous pré-inscrire en ligne](/inscriptions/)!
+
 {% include gallery id="logos" %}
