@@ -30,8 +30,10 @@ le long du circuit balisé de 10km.
 
 Le point de départ et d'arrivée se situe au [Stade Pierre Corneille](/situation/)
 à La Celle Saint-Cloud,
-à deux minutes de la gare de La Celle Saint-Cloud,
-accessible depuis Paris Saint-Lazare et La Défense via la ligne L du Transilien.
+à deux minutes de la gare de La Celle Saint-Cloud.
+<!-- accessible depuis Paris Saint-Lazare et La Défense via la ligne L du Transilien. -->
+Toutefois, attention, **il n'y aura malheureusement aucun train
+entre Garches et La Celle Saint-Cloud** ce samedi 17 septembre 2023.
 
 Le Grand Huit Cellois est organisé conjointement par
 le club des [Choucas Cellois](https://leschoucascellois.github.io/)
