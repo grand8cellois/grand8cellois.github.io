@@ -28,7 +28,7 @@ Rendez-vous au stade (fuschia), au club (jaune), ou au feu de l'avenue Molière 
 
 ## Affectation des tâches
 
-* [Affectation](/assets/consignes/2023/G8C WE 2023 affectation revF.pdf)
+* [Affectation](/assets/consignes/2023/G8C WE 2023 affectation revG.pdf)
 
 ## Traces pour le balisage
 
