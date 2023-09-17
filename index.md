@@ -20,20 +20,22 @@ logos:
 
 Le Grand Huit Cellois est **une randonnée VTT ouverte à tous**. Il a lieu
 chaque année **en septembre** au départ de **La Celle Saint-Cloud**
-(Yvelines, France). La prochaine édition aura lieu le
-**dimanche 17 septembre 2023**.
+(Yvelines, France).
 
-Nous vous proposons [des parcours VTT balisés de 10 à 54km](/circuits/)
+**Merci aux 404 participants** de l'édition 2023!
+La prochaine édition aura lieu le
+**dimanche 15 septembre 2024**.
+
+En 2023,
+nous vous proposions [des parcours VTT balisés de 10 à 54km](/circuits/)
 ainsi que [deux parcours VTT non balisés de 70 et 80km](/circuits/).
-En 2023, nous innovons et vous proposons également un **run & bike**
+Nous proposions également un **run & bike**
 le long du circuit balisé de 10km.
 
 Le point de départ et d'arrivée se situe au [Stade Pierre Corneille](/situation/)
 à La Celle Saint-Cloud,
 à deux minutes de la gare de La Celle Saint-Cloud.
-<!-- accessible depuis Paris Saint-Lazare et La Défense via la ligne L du Transilien. -->
-Toutefois, attention, **il n'y aura malheureusement aucun train
-entre Garches et La Celle Saint-Cloud** ce samedi 17 septembre 2023.
+accessible depuis Paris Saint-Lazare et La Défense via la ligne L du Transilien.
 
 Le Grand Huit Cellois est organisé conjointement par
 le club des [Choucas Cellois](https://leschoucascellois.github.io/)
@@ -45,7 +47,9 @@ Les organisateurs remercient les mairies de la Celle Saint-Cloud et de
 Versailles et leurs services des sports, qui nous permettent d’utiliser leurs
 installations.
 
+<!--
 Maintenant que vous savez tout, il vous reste à
 [vous pré-inscrire en ligne](/inscriptions/)!
+-->
 
 {% include gallery id="logos" %}
