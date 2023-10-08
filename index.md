@@ -23,7 +23,8 @@ chaque année **en septembre** au départ de **La Celle Saint-Cloud**
 (Yvelines, France).
 
 **Merci aux 404 participants** de l'édition 2023!
-Voici les [photos publiées par le CCVP](https://photos.app.goo.gl/3NhihN96Jpse2o2w5).
+Voici les [photos publiées par le CCVP](https://photos.app.goo.gl/3NhihN96Jpse2o2w5),
+et les [photos d'Amadou Diouf](https://mega.nz/folder/wAAWAYwC#mKsYRJcdiUEE3oPwBykA-A).
 
 La prochaine édition aura lieu le
 **dimanche 15 septembre 2024**.
