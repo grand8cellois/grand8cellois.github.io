@@ -27,7 +27,7 @@ Voici les [photos publiées par le CCVP](https://photos.app.goo.gl/3NhihN96Jpse2
 et les [photos d'Amadou Diouf](https://mega.nz/folder/wAAWAYwC#mKsYRJcdiUEE3oPwBykA-A).
 
 La prochaine édition aura lieu le
-**dimanche 15 septembre 2024**.
+**dimanche 6 octobre 2024**.
 
 En 2023,
 nous vous proposions [des parcours VTT balisés de 10 à 54km](/circuits/)
