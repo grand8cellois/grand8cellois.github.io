@@ -22,7 +22,7 @@ POSTER := ../2023/affiche.png
 %-processed.png: %.png Makefile
 	magick convert $< \
 	  -font helvetica -fill white -pointsize 72 \
-	  -gravity southwest -annotate +50+50 "Grand Huit Cellois\\n17 septembre 2023" \
+	  -gravity southwest -annotate +50+50 "Grand Huit Cellois\\n6 octobre 2024" \
 	  "(" $(POSTER) -resize 210 ")" -gravity southeast -geometry +50+50 -composite \
 	  $@
 
