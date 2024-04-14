@@ -15,6 +15,9 @@ gallery2:
     title: "Parcours du run & bike"
 ---
 
+Attention, il s'agit ici des **circuits de l'année 2023**.
+Les circuits 2024 n'ont pas encore été finalisés.
+
 Nous vous proposons deux types de circuits:
 
 + pour les **familles**,
