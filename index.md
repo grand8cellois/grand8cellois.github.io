@@ -10,8 +10,8 @@ logos:
   - url: https://leschoucascellois.github.io/
     image_path: /assets/images/logos/choucas.jpg
     title: "Les Choucas Cellois"
-  - url: http://versaillesvelo.e-monsite.com/
-    image_path: /assets/images/logos/ccvp.jpg
+  - url: https://ccvp.asso.fr/
+    image_path: /assets/images/logos/ccvp.png
     title: "Club Cyclotouriste de Versailles-Porchefontaine"
 ---
 
