@@ -35,7 +35,7 @@ accessible depuis Paris Saint-Lazare et La Défense via la ligne L du Transilien
 Le Grand Huit Cellois est organisé conjointement par
 le club des [Choucas Cellois](https://leschoucascellois.github.io/)
 et par
-le [Club Cyclotouriste de Versailles-Porchefontaine](http://versaillesvelo.e-monsite.com/).
+le [Club Cyclotouriste de Versailles-Porchefontaine](https://ccvp.asso.fr/).
 Les organisateurs remercient les mairies de la Celle Saint-Cloud et de
 Versailles et leurs services des sports, qui nous permettent d’utiliser leurs
 installations.
