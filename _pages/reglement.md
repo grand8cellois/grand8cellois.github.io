@@ -30,10 +30,5 @@ L'inscription à la randonnée implique de fait l'acceptation du présent re�
 
 * Préservez la beauté des sites: n'abandonnez pas de déchets en route.
 
-* Sur le run & bike, le couple randonneur-vététiste effectuent un échange
-  quand ils le souhaitent. Lors de l'échange, un contact doit être réalisé
-  entre les participants: le vélo doit être passé de la main à la main. Le
-  départ et l'arrivée doivent se faire côte à côte.
-
 Coordonnées du responsable de la manifestation:
 Laurent Pomié (président du club Choucas Cellois), 07 87 39 81 65.

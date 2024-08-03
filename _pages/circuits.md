@@ -9,10 +9,6 @@ gallery1:
   - url: /assets/images/2023/parcours.jpg
     image_path: /assets/images/2023/parcours-1024.jpg
     title: "Parcours VTT"
-gallery2:
-  - url: /assets/images/2023/run-and-bike.jpg
-    image_path: /assets/images/2023/run-and-bike-1024.jpg
-    title: "Parcours du run & bike"
 ---
 
 Attention, il s'agit ici des **circuits de l'année 2023**.
@@ -75,13 +71,3 @@ L'inscription est limitée à 50 participants sur chacun de ces parcours.
 Un point d'eau est prévu et se situera aux environs du kilomètre 46. Le seul
 ravitaillement est celui situé au kilomètre 29. Deux barres énergétiques
 seront distribuées aux participants au départ.
-
-## Run & Bike
-
-La boucle de 10km en format « Run & Bike » se réalise en couple: un randonneur
-à pied et un à VTT.
-Le départ est libre et non chronométré.
-Le randonneur pédestre et le cycliste VTT doivent se mouvoir conjointement,
-sans écart entre les 2 participants.
-
-{% include gallery id="gallery2" %}

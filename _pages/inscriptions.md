@@ -51,17 +51,6 @@ Un sandwich et une boisson sont distribués à l'arrivée.
 
 L'inscription sur place le jour même **n'est pas possible**.
 
-## Run & Bike de 10km
-
-La [pré-inscription en ligne](https://www.helloasso.com/associations/les-choucas-cellois/evenements/le-grand-8-cellois-run-bike-10-km)
-via le site HelloAsso
-est ouverte.
-
-Le tarif est de **12 euros par couple**.
-
-L'inscription sur place le jour même est possible
-pour un tarif majoré de 2 euros.
-
 ## Inscription Club
 
 Pour inscrire un club,
