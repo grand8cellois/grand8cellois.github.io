@@ -46,16 +46,9 @@ au [Stade Pierre Corneille](/situation/),
 10 avenue Pierre Corneille,
 La Celle Saint-Cloud.
 
-En 2024, le parcours se fait **dans le sens anti-horaire**.
-
-Après un parcours dans les forêts de Fausses-Reposes et de Versailles, la randonnée passe à
-la maison des sports de Porchefontaine où s'effectue le **ravitaillement**.
-Sur le parcours de 45km, ce ravitaillement se situe au kilomètre 21. Sur les
-parcours de 54, 70 et 80km, il se situe au kilomètre 29.
-
-La randonnée revient ensuite, à travers les forêts de Meudon puis de
-Fausses-Reposes, vers La Celle Saint-Cloud et le Stade Corneille, où se
-situent l'arrivée et le ravitaillement final.
+En 2024, le parcours se fait **dans le sens anti-horaire**. Après avoir
+traversé les forêts de Fausses-Reposes, Versailles et Meudon, il revient à son
+point de départ. Un ravitaillement se situe au kilomètre 24 environ.
 
 Le parcours complet de 55km, entièrement balisé, permet, grâce à une série de
 raccourcis, d'offrir aux participants des tracés dont les distances et les
@@ -74,11 +67,11 @@ Le parcours de 80km ajoute une incursion plus profonde dans la forêt de Meudon.
 
 {% include gallery id="gallery80" %}
 
-Ces portions de parcours sont **non balisées** et sont réservés aux sportifs
-chevronnés et entraînés, qui devront les parcourir en complète autonomie.
+Ces portions de parcours supplémentaires sont **non balisées**. Elles devront
+être parcourues en complète autonomie. De façon générale, les parcours de 70km
+et 80km sont réservés aux sportifs chevronnés et entraînés.
 
 L'inscription est limitée à 50 participants sur chacun de ces parcours.
 
-Un point d'eau est prévu et se situera aux environs du kilomètre 46. Le seul
-ravitaillement est celui situé au kilomètre 29. Deux barres énergétiques
-seront distribuées aux participants au départ.
+Le seul ravitaillement est celui situé au kilomètre 24. Deux barres
+énergétiques seront distribuées aux participants au départ.
