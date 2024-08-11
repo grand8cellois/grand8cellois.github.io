@@ -21,7 +21,7 @@ chaque année **en septembre** au départ de **La Celle Saint-Cloud**
 
 La prochaine édition aura lieu le
 **dimanche 6 octobre 2024**.
-L'inscription sera ouverte début septembre.
+L'inscription sera **ouverte le 15 août**.
 
 En 2024,
 nous vous proposerons des **parcours VTT balisés** de 10 à 55km,
