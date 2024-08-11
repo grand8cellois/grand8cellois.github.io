@@ -24,7 +24,8 @@ est ouverte.
 Le tarif pour une pré-inscription en ligne est de
 **8 euros** pour les licenciés FFCT et
 **10 euros** pour les non licenciés.
-Le tarif est de **4 euros pour les mineurs**,
+Compte tenu de l'augmentation de nos frais d'organisation,
+le tarif est de **4 euros pour les mineurs**,
 qui doivent être accompagnés.
 
 Les parcours de 45km et 54km comprennent un ravitaillement.
@@ -42,7 +43,8 @@ est ouverte.
 Le tarif pour une pré-inscription en ligne est de
 **8 euros** pour les licenciés FFCT et
 **10 euros** pour les non licenciés.
-Le tarif est de **4 euros pour les mineurs**,
+Compte tenu de l'augmentation de nos frais d'organisation,
+le tarif est de **4 euros pour les mineurs**,
 qui doivent être accompagnés.
 
 Deux barres énergétiques sont distribuées au départ.
@@ -60,7 +62,8 @@ est ouverte.
 Le tarif pour une pré-inscription en ligne est de
 **8 euros** pour les licenciés FFCT et
 **10 euros** pour les non licenciés.
-Le tarif est de **4 euros pour les mineurs**,
+Compte tenu de l'augmentation de nos frais d'organisation,
+le tarif est de **4 euros pour les mineurs**,
 qui doivent être accompagnés.
 
 Deux barres énergétiques sont distribuées au départ.
