@@ -65,6 +65,13 @@ dénivelées sont adaptées à chacun. Le parcours de 10km est adapté aux famil
 avec jeunes enfants; le parcours de 20km est destiné aux familles plus
 sportives; les parcours de 45km et 55km s'adressent aux sportifs confirmés.
 
+Voici les distances et dénivelés des différents parcours:
+* Le parcours "10km" mesure 9km et a un dénivelé positif de 135m.
+* le parcours "22km" mesure 22km et a un dénivelé positif de 351m.
+* le parcours "35km" mesure 38km et a un dénivelé positif de 709m.
+* le parcours "45km" mesure 48km et a un dénivelé positif de 895m.
+* le parcours "55km" mesure 58km et a un dénivelé positif de 1138m.
+
 ## Parcours non balisés de 70km et 80km
 
 Le parcours de 70km ajoute au parcours de 55km une longue boucle du côté de
@@ -85,6 +92,10 @@ L'inscription est limitée à 50 participants sur chacun de ces parcours.
 Le seul ravitaillement est celui situé au kilomètre 24. Deux barres
 énergétiques seront distribuées aux participants au départ.
 
+Voici les distances et dénivelés des différents parcours:
+* Le parcours "70km" mesure 72km et a un dénivelé positif de 1497m.
+* Le parcours "80km" mesure 79km et a un dénivelé positif de 1646m.
+
 ## Parcours Gravel non balisé de 65km
 
 {% include gallery id="gravel" %}
@@ -101,3 +112,5 @@ L'inscription est limitée à 50 participants sur ce parcours.
 
 Le seul ravitaillement est celui situé au kilomètre 32. Deux barres
 énergétiques seront distribuées aux participants au départ.
+
+Le parcours gravel "65km" mesure 64km et a un dénivelé positif de 1192m.
