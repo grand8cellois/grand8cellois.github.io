@@ -26,7 +26,7 @@ L'inscription sera **ouverte le 15 août**.
 En 2024,
 nous vous proposerons des **parcours VTT balisés** de 10 à 55km,
 ainsi que deux **parcours VTT non balisés** de 70 et 80km
-et un **parcours gravel**, nouveau cette année.
+et un **parcours gravel** de 65km, nouveau cette année.
 
 Le point de départ et d'arrivée se situe au [Stade Pierre Corneille](/situation/)
 à La Celle Saint-Cloud,
