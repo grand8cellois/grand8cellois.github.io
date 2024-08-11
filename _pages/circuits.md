@@ -5,6 +5,9 @@ title: Circuits
 permalink: /circuits/
 header:
   overlay_image: /assets/images/bandeaux/Marly-processed.webp
+sidebar:
+  - text: |
+      [![img](/assets/images/2024/affiche.png)](/assets/images/2024/affiche.pdf)
 gallery55:
   - url: /assets/images/2024/G8C2024-55km.jpg
     image_path: /assets/images/2024/G8C2024-55km.jpg
