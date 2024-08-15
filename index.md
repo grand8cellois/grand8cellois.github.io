@@ -21,7 +21,7 @@ chaque année **en septembre** au départ de **La Celle Saint-Cloud**
 
 La prochaine édition aura lieu le
 **dimanche 6 octobre 2024**.
-L'inscription sera **ouverte le 15 août**.
+[L'inscription en ligne est ouverte!](/inscriptions/)
 
 En 2024,
 nous vous proposerons des **parcours VTT balisés** de 10 à 55km,
@@ -41,13 +41,13 @@ Les organisateurs remercient les mairies de la Celle Saint-Cloud et de
 Versailles et leurs services des sports, qui nous permettent d’utiliser leurs
 installations.
 
+<!--
 **Merci aux 404 participants** de l'édition 2023!
 Voici les [photos publiées par le CCVP](https://photos.app.goo.gl/3NhihN96Jpse2o2w5),
 et les [photos d'Amadou Diouf](https://mega.nz/folder/wAAWAYwC#mKsYRJcdiUEE3oPwBykA-A).
-
-<!--
-Maintenant que vous savez tout, il vous reste à
-[vous pré-inscrire en ligne](/inscriptions/)!
 -->
+
+Maintenant que vous savez tout, il vous reste à
+[vous inscrire en ligne](/inscriptions/)!
 
 {% include gallery id="logos" %}
