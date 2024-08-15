@@ -23,3 +23,6 @@ valable 2 mois et à partir de 80 euros d'achat.
 Ce bon sera envoyé par email aux participants.
 
 Un grand merci à nos sponsors!
+
+Si votre entreprise souhaite soutenir le Grand Huit Cellois,
+consultez notre dossier [sponsoring](/assets/images/2024/sponsoring.pdf).
