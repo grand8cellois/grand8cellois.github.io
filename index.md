@@ -4,8 +4,10 @@ classes: wide
 header:
   image: /assets/images/bandeaux/animation.webp
 sidebar:
-  - text: |
-      [![img](/assets/images/2024/affiche.png)](/assets/images/2024/affiche.pdf)
+  - text: >
+      [![img](/assets/images/logos/alltricks.jpg)](https://www.alltricks.fr/)
+      [![img](/assets/images/logos/carrefour.jpg)](https://www.carrefour.fr/)
+      [![img](/assets/images/logos/montesson-500.png)](https://www.centre-commercial.fr/carrefour-montesson/boutiques/)
 logos:
   - url: https://leschoucascellois.github.io/
     image_path: /assets/images/logos/choucas.jpg
@@ -13,6 +15,9 @@ logos:
   - url: https://ccvp.asso.fr/
     image_path: /assets/images/logos/ccvp.png
     title: "Club Cyclotouriste de Versailles-Porchefontaine"
+  - url: /assets/images/2024/affiche.pdf
+    image_path: /assets/images/2024/affiche.png
+    title: "Affiche"
 ---
 
 Le Grand Huit Cellois est **une randonnée VTT ouverte à tous**. Il a lieu
@@ -40,6 +45,7 @@ le [Club Cyclotouriste de Versailles-Porchefontaine](https://ccvp.asso.fr/).
 Les organisateurs remercient les mairies de la Celle Saint-Cloud et de
 Versailles et leurs services des sports, qui nous permettent d’utiliser leurs
 installations.
+Un grand merci également à nos [sponsors](/sponsors/)!
 
 <!--
 **Merci aux 404 participants** de l'édition 2023!

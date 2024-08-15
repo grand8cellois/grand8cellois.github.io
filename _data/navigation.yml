@@ -6,6 +6,8 @@ main:
     url: /situation/
   - title: Inscriptions
     url: /inscriptions/
+  - title: Sponsors
+    url: /sponsors/
   - title: Règlement
     url: /reglement/
   - title: Contact

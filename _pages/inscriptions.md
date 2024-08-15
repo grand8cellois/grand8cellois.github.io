@@ -6,8 +6,10 @@ permalink: /inscriptions/
 header:
   overlay_image: /assets/images/bandeaux/Marly-processed.webp
 sidebar:
-  - text: |
-      [![img](/assets/images/2024/affiche.png)](/assets/images/2024/affiche.pdf)
+  - text: >
+      [![img](/assets/images/logos/alltricks.jpg)](https://www.alltricks.fr/)
+      [![img](/assets/images/logos/carrefour.jpg)](https://www.carrefour.fr/)
+      [![img](/assets/images/logos/montesson-500.png)](https://www.centre-commercial.fr/carrefour-montesson/boutiques/)
 ---
 
 Nous vous recommandons de vous pré-inscrire en ligne.
