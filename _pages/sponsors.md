@@ -18,9 +18,14 @@ Le Grand Huit Cellois est soutenu par
 + le **Centre Commercial Montesson**.
 
 Alltricks offre à chaque participant
-un bon d'achat d'une valeur de **10 euros**,
-valable 2 mois et à partir de 80 euros d'achat.
-Ce bon sera envoyé par email aux participants.
+un code valable 2 mois
+(du lundi 7 octobre au dimanche 8 décembre 2024),
+limité à 400 utilisations,
+permettant **10 euros de remise** à partir de 80 euros d'achat,
+valable sur les articles non soldés et non reconditionnés
+vendus et expédiés par Alltricks uniquement,
+non cumulable avec une autre offre commerciale.
+**Ce bon sera envoyé par email aux participants.**
 
 Un grand merci à nos sponsors!
 
