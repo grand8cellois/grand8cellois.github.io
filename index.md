@@ -28,7 +28,7 @@ La prochaine édition aura lieu le
 **dimanche 6 octobre 2024**.
 [L'inscription en ligne est ouverte!](/inscriptions/)
 
-Un bon de réduction [Alltricks](https://www.alltricks.fr/)
+Un bon d'achat [Alltricks](https://www.alltricks.fr/)
 d'une valeur de **10 euros**,
 valable 2 mois et à partir de 80 euros d'achat,
 sera offert à chaque participant.
