@@ -13,6 +13,7 @@ sidebar:
       [![img](/assets/images/logos/carrefour-cropped.jpg)](https://www.carrefour.fr/)
       [![img](/assets/images/logos/montesson-200.png)](https://www.centre-commercial.fr/carrefour-montesson/boutiques/)
       [![img](/assets/images/logos/ferplait.png)](https://www.pressing-fer-plait-yvelines.fr/)
+      [![img](/assets/images/logos/lbdv.png)](https://www.lbvelo.fr/)
 gallery55:
   - url: /assets/images/2024/G8C2024-55km.jpg
     image_path: /assets/images/2024/G8C2024-55km.jpg

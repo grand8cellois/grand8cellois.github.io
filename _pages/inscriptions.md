@@ -13,6 +13,7 @@ sidebar:
       [![img](/assets/images/logos/carrefour-cropped.jpg)](https://www.carrefour.fr/)
       [![img](/assets/images/logos/montesson-200.png)](https://www.centre-commercial.fr/carrefour-montesson/boutiques/)
       [![img](/assets/images/logos/ferplait.png)](https://www.pressing-fer-plait-yvelines.fr/)
+      [![img](/assets/images/logos/lbdv.png)](https://www.lbvelo.fr/)
 ---
 
 Nous vous recommandons de vous pré-inscrire en ligne.

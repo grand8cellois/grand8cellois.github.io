@@ -13,6 +13,7 @@ sidebar:
       [![img](/assets/images/logos/carrefour-cropped.jpg)](https://www.carrefour.fr/)
       [![img](/assets/images/logos/montesson-200.png)](https://www.centre-commercial.fr/carrefour-montesson/boutiques/)
       [![img](/assets/images/logos/ferplait.png)](https://www.pressing-fer-plait-yvelines.fr/)
+      [![img](/assets/images/logos/lbdv.png)](https://www.lbvelo.fr/)
 ---
 
 Le Grand Huit Cellois est soutenu par
@@ -20,7 +21,8 @@ Le Grand Huit Cellois est soutenu par
 + **Alltricks**,
 + **Carrefour**,
 + le **Centre Commercial Montesson**,
-+ **Ferplait**.
++ **Ferplait**,
++ la **Boutique du vélo**.
 
 Alltricks offre à chaque participant
 un code valable 2 mois
