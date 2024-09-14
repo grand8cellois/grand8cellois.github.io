@@ -7,9 +7,12 @@ header:
   overlay_image: /assets/images/bandeaux/Marly-processed.webp
 sidebar:
   - text: >
+      [![img](/assets/images/logos/ANS.png)](https://www.agencedusport.fr/)
+      <span style="color:white">some *blue* text</span>
       [![img](/assets/images/logos/alltricks.jpg)](https://www.alltricks.fr/)
-      [![img](/assets/images/logos/carrefour.jpg)](https://www.carrefour.fr/)
-      [![img](/assets/images/logos/montesson-500.png)](https://www.centre-commercial.fr/carrefour-montesson/boutiques/)
+      [![img](/assets/images/logos/carrefour-cropped.jpg)](https://www.carrefour.fr/)
+      [![img](/assets/images/logos/montesson-200.png)](https://www.centre-commercial.fr/carrefour-montesson/boutiques/)
+      [![img](/assets/images/logos/ferplait.png)](https://www.pressing-fer-plait-yvelines.fr/)
 ---
 
 Le point de départ et d'arrivée se situe au **Stade Pierre Corneille**,

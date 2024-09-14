@@ -7,15 +7,20 @@ header:
   overlay_image: /assets/images/bandeaux/Marly-processed.webp
 sidebar:
   - text: >
+      [![img](/assets/images/logos/ANS.png)](https://www.agencedusport.fr/)
+      <span style="color:white">some *blue* text</span>
       [![img](/assets/images/logos/alltricks.jpg)](https://www.alltricks.fr/)
-      [![img](/assets/images/logos/carrefour.jpg)](https://www.carrefour.fr/)
-      [![img](/assets/images/logos/montesson-500.png)](https://www.centre-commercial.fr/carrefour-montesson/boutiques/)
+      [![img](/assets/images/logos/carrefour-cropped.jpg)](https://www.carrefour.fr/)
+      [![img](/assets/images/logos/montesson-200.png)](https://www.centre-commercial.fr/carrefour-montesson/boutiques/)
+      [![img](/assets/images/logos/ferplait.png)](https://www.pressing-fer-plait-yvelines.fr/)
 ---
 
 Le Grand Huit Cellois est soutenu par
++ l'**Agence Nationale du Sport**,
 + **Alltricks**,
 + **Carrefour**,
-+ le **Centre Commercial Montesson**.
++ le **Centre Commercial Montesson**,
++ **Ferplait**.
 
 Alltricks offre à chaque participant
 un code valable 2 mois
