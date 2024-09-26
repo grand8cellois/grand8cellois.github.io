@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <gpx version="1.1" creator="CartoExploreur 3 3.20" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
     <metadata>
-        <time>2024-08-09T09:01:26Z</time>
+        <time>2024-08-18T17:54:42Z</time>
         <bounds maxlat="48.855584000" maxlon="2.242435000" minlat="48.769940000" minlon="2.069838000" />
     </metadata>
     <trk>
@@ -740,10 +740,10 @@
                 <time>2024-02-13T17:10:22Z</time>
             </trkpt>
             <trkpt lat="48.836931000" lon="2.127976000">
-                <ele>175.000000</ele>
+                <ele>175.300000</ele>
             </trkpt>
             <trkpt lat="48.836758000" lon="2.128043000">
-                <ele>176.000000</ele>
+                <ele>175.700000</ele>
             </trkpt>
             <trkpt lat="48.836216000" lon="2.129521000">
                 <ele>174.000000</ele>
