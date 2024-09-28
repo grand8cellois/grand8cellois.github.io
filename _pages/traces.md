@@ -2,26 +2,24 @@
 layout: single
 classes: wide
 title: Traces
-permalink: /ihiePe6z/
-redirect_from:
-  - /traces10-54km_beLb-41F
-  - /traces70-80km_gil-e_47A
+permalink: /ohK5dibi/
 header:
   overlay_image: /assets/images/bandeaux/Marly-processed.webp
 ---
 
-## Parcours balisés de 10km à 54km
+## Parcours balisés de 10km à 55km
 
-* [Parcours VTT balisé de 10km](/assets/zai1EiBa/G8C2023-10km.gpx)
-* [Parcours VTT balisé de 20km](/assets/zai1EiBa/G8C2023-20km.gpx)
-* [Parcours VTT balisé de 45km](/assets/zai1EiBa/G8C2023-45km.gpx)
-* [Parcours VTT balisé de 54km](/assets/zai1EiBa/G8C2023-54km.gpx)
+* [Parcours VTT balisé de 10km](/assets/AaCae4eY/G8C2024-10km.gpx)
+* [Parcours VTT balisé de 20km](/assets/AaCae4eY/G8C2024-20km.gpx)
+* [Parcours VTT balisé de 35km](/assets/AaCae4eY/G8C2024-35km.gpx)
+* [Parcours VTT balisé de 45km](/assets/AaCae4eY/G8C2024-45km.gpx)
+* [Parcours VTT balisé de 55km](/assets/AaCae4eY/G8C2024-55km.gpx)
 
 ## Parcours non balisés de 70km et 80km
 
-* [Parcours VTT non balisé de 70km](/assets/zai1EiBa/G8C2023-70km.gpx)
-* [Parcours VTT non balisé de 80km](/assets/zai1EiBa/G8C2023-80km.gpx)
+* [Parcours VTT non balisé de 70km](/assets/AaCae4eY/G8C2024-70km.gpx)
+* [Parcours VTT non balisé de 80km](/assets/AaCae4eY/G8C2024-80km.gpx)
 
-## Run & Bike
+## Parcours Gravel non balisé de 65km
 
-* [Parcours Run & Bike balisé de 10km](/assets/zai1EiBa/G8C2023-10km-RunAndBike.gpx)
+* [Parcours Gravel non balisé de 65km](/assets/AaCae4eY/G8C2024-Gravel-65km.gpx)
