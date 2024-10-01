@@ -71,6 +71,11 @@ dénivelées sont adaptées à chacun. Le parcours de 10km est adapté aux famil
 avec jeunes enfants; le parcours de 20km est destiné aux familles plus
 sportives; les parcours de 45km et 55km s'adressent aux sportifs confirmés.
 
+Le parcours de 55km comporte plusieurs montées "impossibles", que seuls
+quelques membres de notre club ont réussi à vaincre! Ces parcours s'adressent
+a des VTTistes en grande forme physique et ayant une très bonne maîtrise
+technique, tant en grimpette qu'en descente sur des chemins ravinés.
+
 Voici les distances et dénivelés des différents parcours:
 * Le parcours "10km" mesure 9km et a un dénivelé positif de 135m.
 * le parcours "22km" mesure 22km et a un dénivelé positif de 351m.
@@ -79,6 +84,12 @@ Voici les distances et dénivelés des différents parcours:
 * le parcours "55km" mesure 58km et a un dénivelé positif de 1138m.
 
 ## Parcours non balisés de 70km et 80km
+
+Comme le parcours de 55km, ces parcours comportent plusieurs montées
+"impossibles", que seuls quelques membres de notre club ont réussi à vaincre!
+Ces parcours s'adressent a des VTTistes en grande forme physique et ayant une
+très bonne maîtrise technique, tant en grimpette qu'en descente sur des
+chemins ravinés.
 
 Le parcours de 70km ajoute au parcours de 55km une longue boucle du côté de
 la Minière, ainsi qu'un petit détour par le bois de Saint-Cucufa.
