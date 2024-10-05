@@ -31,6 +31,7 @@ chaque année **en septembre** au départ de **La Celle Saint-Cloud**
 La prochaine édition aura lieu le
 **dimanche 6 octobre 2024**.
 [L'inscription en ligne est ouverte!](/inscriptions/)
+Le départ est ouvert **de 7h30 à 10h**.
 
 Un bon d'achat [Alltricks](https://www.alltricks.fr/)
 d'une valeur de **10 euros**,

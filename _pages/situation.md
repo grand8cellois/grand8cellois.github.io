@@ -19,6 +19,8 @@ sidebar:
 Le point de départ et d'arrivée se situe au **Stade Pierre Corneille**,
 10 avenue Pierre Corneille, 78170 La Celle Saint-Cloud.
 
+Le départ est ouvert **de 7h30 à 10h**.
+
 Le stade se trouve à **deux minutes de la gare** de La Celle Saint-Cloud,
 accessible depuis Paris Saint-Lazare et La Défense via la ligne L du
 Transilien.
