@@ -25,23 +25,16 @@ logos:
 ---
 
 Le Grand Huit Cellois est **une randonnée VTT ouverte à tous**. Il a lieu
-chaque année **en septembre** au départ de **La Celle Saint-Cloud**
+chaque année **à l'automne** au départ de **La Celle Saint-Cloud**
 (Yvelines, France).
 
-La prochaine édition aura lieu le
+La dernière édition a eu lieu le
 **dimanche 6 octobre 2024**.
-[L'inscription en ligne est ouverte!](/inscriptions/)
-Le départ est ouvert **de 7h30 à 10h**.
-
-Un bon d'achat [Alltricks](https://www.alltricks.fr/)
-d'une valeur de **10 euros**,
-valable 2 mois et à partir de 80 euros d'achat,
-sera offert à chaque participant.
 
 En 2024,
-nous vous proposerons des **parcours VTT balisés** de 10 à 55km,
+nous vous proposions des **parcours VTT balisés** de 10 à 55km,
 ainsi que deux **parcours VTT non balisés** de 70 et 80km
-et un **parcours gravel** de 65km, nouveau cette année.
+et un **parcours gravel** de 65km.
 
 Le point de départ et d'arrivée se situe au [Stade Pierre Corneille](/situation/)
 à La Celle Saint-Cloud,
@@ -63,7 +56,9 @@ Voici les [photos publiées par le CCVP](https://photos.app.goo.gl/3NhihN96Jpse2
 et les [photos d'Amadou Diouf](https://mega.nz/folder/wAAWAYwC#mKsYRJcdiUEE3oPwBykA-A).
 -->
 
+<!--
 Maintenant que vous savez tout, il vous reste à
 [vous inscrire en ligne](/inscriptions/)!
+-->
 
 {% include gallery id="logos" %}
