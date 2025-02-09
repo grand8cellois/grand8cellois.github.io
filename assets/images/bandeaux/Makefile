@@ -11,7 +11,7 @@ animation.webp: $(FRAMES)
 
 # Convert .jpg to .png.
 %.png: %.jpg
-	magick convert $< $@
+	magick $< $@
 
 # The poster.
 POSTER := ../2024/affiche.png
@@ -20,9 +20,9 @@ POSTER := ../2024/affiche.png
 # A caption is superimposed in the lower left corner.
 # The poster is superimposed in the lower right corner.
 %-processed.png: %.png Makefile
-	magick convert $< \
+	magick $< \
 	  -font helvetica -fill white -pointsize 72 \
-	  -gravity southwest -annotate +50+50 "Grand Huit Cellois\\n6 octobre 2024" \
+	  -gravity southwest -annotate +50+50 "Grand Huit Cellois\\n21 septembre 2025" \
 	  "(" $(POSTER) -resize 210 ")" -gravity southeast -geometry +50+50 -composite \
 	  $@
 
