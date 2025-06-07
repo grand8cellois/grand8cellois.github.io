@@ -120,7 +120,7 @@ Son dénivelé positif est de 900m environ.
 {% include gallery id="gallery65" %}
 
 Comparé au parcours précédent,
-le parcours de 55km pousse encore un peu plus loin en forêt de Marly.
+le parcours de 65km pousse encore un peu plus loin en forêt de Marly.
 Son dénivelé positif est de 1100m environ.
 
 {% include gallery id="gallery80" %}
