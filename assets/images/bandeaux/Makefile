@@ -14,7 +14,7 @@ animation.webp: $(FRAMES)
 	magick $< $@
 
 # The poster.
-POSTER := ../2024/affiche.png
+POSTER := ../2025/affiche.png
 
 # Each source image is processed as follows.
 # A caption is superimposed in the lower left corner.

@@ -19,8 +19,8 @@ logos:
   - url: https://ccvp.asso.fr/
     image_path: /assets/images/logos/ccvp.png
     title: "Club Cyclotouriste de Versailles-Porchefontaine"
-  - url: /assets/images/2024/affiche.pdf
-    image_path: /assets/images/2024/affiche.png
+  - url: /assets/images/2025/affiche.pdf
+    image_path: /assets/images/2025/affiche.png
     title: "Affiche"
 ---
 
@@ -31,9 +31,9 @@ chaque année **à l'automne** au départ de **La Celle Saint-Cloud**
 La prochaine édition aura lieu le
 **dimanche 21 septembre 2025**.
 
-En 2024,
-nous vous proposions des **parcours VTT balisés** de 10 à 55km,
-ainsi que deux **parcours VTT non balisés** de 70 et 80km
+En 2025,
+nous vous proposons des **parcours VTT balisés** de 15 à 45km,
+des **parcours VTT non balisés** de 55 à 80km,
 et un **parcours gravel** de 65km.
 
 Le point de départ et d'arrivée se situe au [Stade Pierre Corneille](/situation/)
@@ -49,12 +49,6 @@ Les organisateurs remercient les mairies de la Celle Saint-Cloud et de
 Versailles et leurs services des sports, qui nous permettent d’utiliser leurs
 installations.
 Un grand merci également à nos [sponsors](/sponsors/)!
-
-<!--
-**Merci aux 404 participants** de l'édition 2023!
-Voici les [photos publiées par le CCVP](https://photos.app.goo.gl/3NhihN96Jpse2o2w5),
-et les [photos d'Amadou Diouf](https://mega.nz/folder/wAAWAYwC#mKsYRJcdiUEE3oPwBykA-A).
--->
 
 <!--
 Maintenant que vous savez tout, il vous reste à
