@@ -16,9 +16,6 @@ logos:
   - url: https://leschoucascellois.github.io/
     image_path: /assets/images/logos/choucas.jpg
     title: "Les Choucas Cellois"
-  - url: https://ccvp.asso.fr/
-    image_path: /assets/images/logos/ccvp.png
-    title: "Club Cyclotouriste de Versailles-Porchefontaine"
   - url: /assets/images/2025/affiche.pdf
     image_path: /assets/images/2025/affiche.png
     title: "Affiche"
@@ -41,13 +38,10 @@ Le point de départ et d'arrivée se situe au [Stade Pierre Corneille](/situatio
 à deux minutes de la gare de La Celle Saint-Cloud.
 accessible depuis Paris Saint-Lazare et La Défense via la ligne L du Transilien.
 
-Le Grand Huit Cellois est organisé conjointement par
-le club des [Choucas Cellois](https://leschoucascellois.github.io/)
-et par
-le [Club Cyclotouriste de Versailles-Porchefontaine](https://ccvp.asso.fr/).
-Les organisateurs remercient les mairies de la Celle Saint-Cloud et de
-Versailles et leurs services des sports, qui nous permettent d’utiliser leurs
-installations.
+Le Grand Huit Cellois est organisé par
+le club des [Choucas Cellois](https://leschoucascellois.github.io/).
+Les organisateurs remercient la mairie de la Celle Saint-Cloud et
+son service des sports, qui nous permettent d’utiliser leurs installations.
 Un grand merci également à nos [sponsors](/sponsors/)!
 
 <!--
