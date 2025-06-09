@@ -24,6 +24,7 @@ Le Grand Huit Cellois est soutenu par
 + **Ferplait**,
 + la **Boutique du vélo**.
 
+<!--
 Alltricks offre à chaque participant
 un code valable 2 mois
 (du lundi 7 octobre au dimanche 8 décembre 2024),
@@ -33,8 +34,9 @@ valable sur les articles non soldés et non reconditionnés
 vendus et expédiés par Alltricks uniquement,
 non cumulable avec une autre offre commerciale.
 **Ce bon sera envoyé par email aux participants.**
+-->
 
 Un grand merci à nos sponsors!
 
 Si votre entreprise souhaite soutenir le Grand Huit Cellois,
-consultez notre dossier [sponsoring](/assets/images/2024/sponsoring.pdf).
+consultez notre dossier [sponsoring](/assets/images/2025/sponsoring.pdf).
