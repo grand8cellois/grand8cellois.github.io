@@ -39,8 +39,8 @@ gallery80:
     image_path: /assets/images/2025/80km.jpg
     title: "Parcours VTT 80km"
 gravel:
-  - url: /assets/images/2025/Gravel.jpg
-    image_path: /assets/images/2025/Gravel.jpg
+  - url: /assets/images/2025/gravel.jpg
+    image_path: /assets/images/2025/gravel.jpg
     title: "Parcours Gravel"
 ---
 
@@ -56,7 +56,7 @@ En 2025, nous vous proposons deux types de circuits:
   [des parcours VTT **non balisés**](#parcours-non-balisés)
   de 55km, 65km et 80km
   et [un parcours Gravel **non balisé**](#parcours-gravel-non-balisé)
-  de 65km.
+  de 70km.
 
 Le code de la route et le [règlement](/reglement/)
 devront être respectés en toutes circonstances.
@@ -132,9 +132,12 @@ Son dénivelé positif est de 1300m environ.
 
 ## Parcours Gravel non balisé
 
-Hormis quelques portions communes avec les parcours balisés, le parcours
-gravel est **non balisé**. Il devra être parcouru en complète autonomie.
+Ce parcours gravel de 70km est commun avec le parcours VTT
+sur les 25 premiers kilomètres et sur les 3 derniers kilomètres.
+La partie centrale, soit environ 42km, est **non balisée**. Ce parcours
+gravel devra donc être parcouru en complète autonomie.
 Il est réservé aux sportifs chevronnés et entraînés.
+Son dénivelé positif est de 1000m environ.
 
 L'inscription est limitée à 50 participants sur ce parcours.
 
