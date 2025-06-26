@@ -4,6 +4,8 @@ main:
     url: /circuits/
   - title: Situation
     url: /situation/
+  - title: Inscriptions
+    url: /inscriptions/
   - title: Sponsors
     url: /sponsors/
   - title: Règlement
