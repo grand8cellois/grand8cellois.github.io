@@ -21,59 +21,57 @@ Vous paierez 2 euros de moins qu'en vous inscrivant sur place.
 De plus, les traces GPX seront envoyées à l'avance
 à tous les participants pré-inscrits.
 
-## Parcours balisés de 10km à 54km
+## Parcours balisés de 15km, 30km et 45km
 
-La [pré-inscription en ligne](https://www.helloasso.com/associations/les-choucas-cellois/evenements/le-grand-8-cellois-2024)
+La [pré-inscription en ligne](https://www.helloasso.com/associations/les-choucas-cellois/evenements/le-grand-8-cellois-2025)
 via le site HelloAsso
-est ouverte.
+sera ouverte le 14 juillet 2025.
 
 Le tarif pour une pré-inscription en ligne est de
-**8 euros** pour les licenciés FFCT et
+**7 euros** pour les licenciés FFCT et
 **10 euros** pour les non licenciés.
-Compte tenu de l'augmentation de nos frais d'organisation,
-le tarif est de **4 euros pour les mineurs**,
-qui doivent être accompagnés.
+Le tarif est de **4 euros pour les 13-18 ans**
+et **gratuit pour les moins de 13 ans**.
+Tous les mineurs doivent être accompagnés.
 
-Les parcours de 45km et 54km comprennent un ravitaillement.
+Les parcours de 30km et 45km comprennent un ravitaillement.
 Un sandwich et une boisson sont distribués à l'arrivée.
 
 L'inscription sur place le jour même est possible
 pour un tarif majoré de 2 euros.
 
-## Parcours non balisés de 70km et 80km
+## Parcours non balisés de 55km, 70km et 80km
 
-La [pré-inscription en ligne](https://www.helloasso.com/associations/les-choucas-cellois/evenements/le-grand-70-et-80-cellois-2024)
+La [pré-inscription en ligne](https://www.helloasso.com/associations/les-choucas-cellois/evenements/le-grand-55-70-80-cellois-2025)
 via le site HelloAsso
-est ouverte.
+sera ouverte le 14 juillet 2025.
 
 Le tarif pour une pré-inscription en ligne est de
-**8 euros** pour les licenciés FFCT et
+**7 euros** pour les licenciés FFCT et
 **10 euros** pour les non licenciés.
-Compte tenu de l'augmentation de nos frais d'organisation,
-le tarif est de **4 euros pour les mineurs**,
-qui doivent être accompagnés.
+Le tarif est de **4 euros pour les 13-18 ans**.
+Tous les mineurs doivent être accompagnés.
 
 Deux barres énergétiques sont distribuées au départ.
-Le parcours comprend un ravitaillement et un point d'eau.
+Les parcours comprennent un ravitaillement.
 Un sandwich et une boisson sont distribués à l'arrivée.
 
 L'inscription sur place le jour même **n'est pas possible**.
 
-## Parcours non balisé gravel
+## Parcours non balisé gravel de 70km
 
-La [pré-inscription en ligne](https://www.helloasso.com/associations/les-choucas-cellois/evenements/le-grand-8-cellois-2024-gravel)
+La [pré-inscription en ligne](https://www.helloasso.com/associations/les-choucas-cellois/evenements/le-grand-8-cellois-2025-gravel)
 via le site HelloAsso
-est ouverte.
+sera ouverte le 14 juillet 2025.
 
 Le tarif pour une pré-inscription en ligne est de
-**8 euros** pour les licenciés FFCT et
+**7 euros** pour les licenciés FFCT et
 **10 euros** pour les non licenciés.
-Compte tenu de l'augmentation de nos frais d'organisation,
-le tarif est de **4 euros pour les mineurs**,
-qui doivent être accompagnés.
+Le tarif est de **4 euros pour les 13-18 ans**.
+Tous les mineurs doivent être accompagnés.
 
 Deux barres énergétiques sont distribuées au départ.
-Le parcours comprend un ravitaillement et un point d'eau.
+Les parcours comprennent un ravitaillement.
 Un sandwich et une boisson sont distribués à l'arrivée.
 
 L'inscription sur place le jour même **n'est pas possible**.
@@ -81,5 +79,5 @@ L'inscription sur place le jour même **n'est pas possible**.
 ## Inscription Club
 
 Pour inscrire un club,
-remplissez [ce formulaire](/assets/images/2024/G8C-Bulletin_club_2024.pdf)
+remplissez [ce formulaire](/assets/images/2025/G8C-Bulletin_club_2025.pdf)
 et présentez-le avec votre paiement sur place le jour même.
