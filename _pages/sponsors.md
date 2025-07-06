@@ -30,17 +30,12 @@ Le Grand Huit Cellois est soutenu par
 + le salon de coiffure [l'Héritage](https://www.planity.com/lheritage-by-mg-anciennement-coiff-nous-78380-bougival)
 + l'école de vélo [MCF Francilienne](https://www.moniteurcycliste.com/)
 
-<!--
-Alltricks offre à chaque participant
-un code valable 2 mois
-(du lundi 7 octobre au dimanche 8 décembre 2024),
-limité à 400 utilisations,
-permettant **10 euros de remise** à partir de 80 euros d'achat,
-valable sur les articles non soldés et non reconditionnés
-vendus et expédiés par Alltricks uniquement,
-non cumulable avec une autre offre commerciale.
-**Ce bon sera envoyé par email aux participants.**
--->
+Alltricks propose à chaque participant
+une **réduction de 10%**,
+sur présentation de votre inscription au Grand Huit Cellois,
+valable une fois,
+non cumulable avec les promotions,
+hors produits électroniques.
 
 Un grand merci à nos sponsors!
 
