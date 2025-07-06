@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <gpx version="1.1" creator="CartoExploreur 3 3.20" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
     <metadata>
-        <time>2025-05-19T08:34:06Z</time>
+        <time>2025-06-27T07:25:01Z</time>
         <bounds maxlat="48.913610000" maxlon="2.185893000" minlat="48.809719000" minlon="1.926475000" />
     </metadata>
     <trk>
@@ -12162,10 +12162,10 @@
                 <ele>154.535004</ele>
             </trkpt>
             <trkpt lat="48.897671000" lon="2.017503000">
-                <ele>163.000000</ele>
+                <ele>161.745193</ele>
             </trkpt>
             <trkpt lat="48.897835000" lon="2.018732000">
-                <ele>162.900000</ele>
+                <ele>160.750000</ele>
             </trkpt>
             <trkpt lat="48.897650000" lon="2.020304000">
                 <ele>160.794998</ele>
@@ -13906,16 +13906,16 @@
                 <time>2017-07-30T09:32:02Z</time>
             </trkpt>
             <trkpt lat="48.878581000" lon="2.054846000">
-                <ele>165.700000</ele>
+                <ele>164.534866</ele>
             </trkpt>
             <trkpt lat="48.878328000" lon="2.054615000">
-                <ele>166.700000</ele>
+                <ele>165.429733</ele>
             </trkpt>
             <trkpt lat="48.878137000" lon="2.054604000">
-                <ele>168.000000</ele>
+                <ele>166.585770</ele>
             </trkpt>
             <trkpt lat="48.875387000" lon="2.055143000">
-                <ele>171.800000</ele>
+                <ele>172.004013</ele>
                 <time>2017-07-30T09:38:00Z</time>
             </trkpt>
             <trkpt lat="48.875145000" lon="2.055280000">
@@ -14116,13 +14116,13 @@
                 <ele>175.000000</ele>
             </trkpt>
             <trkpt lat="48.873473000" lon="2.045194000">
-                <ele>177.000000</ele>
+                <ele>175.723419</ele>
             </trkpt>
             <trkpt lat="48.873085000" lon="2.044958000">
-                <ele>176.100000</ele>
+                <ele>175.390503</ele>
             </trkpt>
             <trkpt lat="48.872301000" lon="2.045420000">
-                <ele>174.300000</ele>
+                <ele>172.949997</ele>
             </trkpt>
             <trkpt lat="48.872083000" lon="2.047920000">
                 <ele>170.638885</ele>
