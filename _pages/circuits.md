@@ -109,7 +109,9 @@ Hormis quelques portions communes avec les parcours balisés, ces parcours long
 sont **non balisés**. Ils devront être parcourus en complète autonomie. Ils
 sont réservés aux sportifs chevronnés et entraînés.
 
-Le seul ravitaillement est celui situé au kilomètre 25.
+Le seul ravitaillement est celui situé au kilomètre 27.
+Sur les parcours de 65km et 80km,
+un point d'eau se situe 20 kilomètres avant l'arrivée.
 Deux barres énergétiques seront distribuées aux participants au départ.
 
 L'inscription est limitée à 50 participants sur chacun de ces parcours.
@@ -144,7 +146,8 @@ Son dénivelé positif est de 1000m environ.
 
 L'inscription est limitée à 50 participants sur ce parcours.
 
-Le seul ravitaillement est celui situé au kilomètre 25. Deux barres
-énergétiques seront distribuées aux participants au départ.
+Le seul ravitaillement est celui situé au kilomètre 27.
+Un point d'eau se situe au kilomètre 55.
+Deux barres énergétiques seront distribuées aux participants au départ.
 
 {% include gallery id="gravel" %}

@@ -43,7 +43,7 @@ Un sandwich et une boisson sont distribués à l'arrivée.
 L'inscription sur place le jour même est possible
 pour un tarif majoré de 2 euros.
 
-## Parcours non balisés de 55km, 70km et 80km
+## Parcours non balisés de 55km, 65km et 80km
 
 La [pré-inscription en ligne](https://www.helloasso.com/associations/les-choucas-cellois/evenements/le-grand-55-70-80-cellois-2025)
 via le site HelloAsso
@@ -55,6 +55,9 @@ Le tarif pour une pré-inscription en ligne est de
 Le tarif est de **4 euros pour les 13-18 ans**.
 Tous les mineurs doivent être accompagnés.
 
+Les trois parcours comprennent un ravitaillement.
+Les parcours de 65km et 80km comprennent également un point d'eau,
+  situé 20 kilomètres avant l'arrivée.
 Deux barres énergétiques sont distribuées au départ.
 Un sandwich et une boisson sont distribués à l'arrivée.
 
@@ -72,6 +75,9 @@ Le tarif pour une pré-inscription en ligne est de
 Le tarif est de **4 euros pour les 13-18 ans**.
 Tous les mineurs doivent être accompagnés.
 
+Le parcours comprend un ravitaillement.
+Il comprend également un point d'eau,
+  situé 15 kilomètres avant l'arrivée.
 Deux barres énergétiques sont distribuées au départ.
 Un sandwich et une boisson sont distribués à l'arrivée.
 
