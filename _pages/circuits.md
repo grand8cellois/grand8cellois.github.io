@@ -76,7 +76,7 @@ La Celle Saint-Cloud.
 
 En 2025, le parcours se fait **dans le sens horaire**. Après avoir
 traversé les forêts de Fausses-Reposes et Marly, il revient à son
-point de départ. Un ravitaillement se situe au kilomètre 25 environ.
+point de départ.
 
 {% include gallery id="gallery15" %}
 
@@ -101,7 +101,7 @@ en bonne forme physique.
 Son dénivelé positif est de 700m environ.
 Au parcours précédent, il ajoute un passage
 par la forêt de Marly et le parc de Marly.
-Un ravitaillement est situé au kilomètre 25.
+Un ravitaillement est situé au kilomètre 27.
 
 ## Parcours non balisés
 
@@ -109,8 +109,8 @@ Hormis quelques portions communes avec les parcours balisés, ces parcours long
 sont **non balisés**. Ils devront être parcourus en complète autonomie. Ils
 sont réservés aux sportifs chevronnés et entraînés.
 
-Le seul ravitaillement est celui situé au kilomètre 25. Deux barres
-énergétiques seront distribuées aux participants au départ.
+Le seul ravitaillement est celui situé au kilomètre 25.
+Deux barres énergétiques seront distribuées aux participants au départ.
 
 L'inscription est limitée à 50 participants sur chacun de ces parcours.
 

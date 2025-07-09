@@ -37,7 +37,7 @@ Le tarif est de **4 euros pour les 13-18 ans**
 et **gratuit pour les moins de 13 ans**.
 Tous les mineurs doivent être accompagnés.
 
-Les parcours de 30km et 45km comprennent un ravitaillement.
+Le parcours de 45km comprend un ravitaillement.
 Un sandwich et une boisson sont distribués à l'arrivée.
 
 L'inscription sur place le jour même est possible
@@ -56,7 +56,6 @@ Le tarif est de **4 euros pour les 13-18 ans**.
 Tous les mineurs doivent être accompagnés.
 
 Deux barres énergétiques sont distribuées au départ.
-Les parcours comprennent un ravitaillement.
 Un sandwich et une boisson sont distribués à l'arrivée.
 
 L'inscription sur place le jour même **n'est pas possible**.
@@ -74,7 +73,6 @@ Le tarif est de **4 euros pour les 13-18 ans**.
 Tous les mineurs doivent être accompagnés.
 
 Deux barres énergétiques sont distribuées au départ.
-Les parcours comprennent un ravitaillement.
 Un sandwich et une boisson sont distribués à l'arrivée.
 
 L'inscription sur place le jour même **n'est pas possible**.
