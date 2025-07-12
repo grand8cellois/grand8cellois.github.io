@@ -19,7 +19,7 @@ POSTER := ../2025/affiche.png
 # Each source image is processed as follows.
 # A caption is superimposed in the lower left corner.
 # The poster is superimposed in the lower right corner.
-%-processed.png: %.png Makefile
+%-processed.png: %.png Makefile $(POSTER)
 	magick $< \
 	  -font helvetica -fill white -pointsize 72 \
 	  -gravity southwest -annotate +50+50 "Grand Huit Cellois\\n21 septembre 2025" \
