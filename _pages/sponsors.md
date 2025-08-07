@@ -10,6 +10,8 @@ sidebar:
       [![img](/assets/images/logos/ANS.png)](https://www.agencedusport.fr/)
       <span style="color:white">some *blue* text</span>
       [![img](/assets/images/logos/alltricks.jpg)](https://www.alltricks.fr/)
+      <span style="color:white">some *blue* text</span>
+      [![img](/assets/images/logos/au-petit-chez-soi-2.jpg)](https://aupetitchezsoi.eatbu.com/?lang=fr)
       [![img](/assets/images/logos/auto-ecole-corneille.jpg)](https://www.facebook.com/autoecolecorneilleconduite)
       [![img](/assets/images/logos/lbdv.png)](https://www.lbvelo.fr/)
       [![img](/assets/images/logos/carrefour-cropped.jpg)](https://www.carrefour.fr/)
@@ -22,6 +24,7 @@ sidebar:
 Le Grand Huit Cellois est soutenu par
 + [l'Agence Nationale du Sport](https://www.agencedusport.fr/)
 + [Alltricks](https://www.alltricks.fr/)
++ [Au Petit Chez Soi](https://aupetitchezsoi.eatbu.com/?lang=fr)
 + [l'Auto-École Corneille](https://www.facebook.com/autoecolecorneilleconduite)
 + [la Boutique du vélo](https://www.lbvelo.fr/)
 + [Carrefour](https://www.carrefour.fr/)

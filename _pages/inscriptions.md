@@ -10,6 +10,8 @@ sidebar:
       [![img](/assets/images/logos/ANS.png)](https://www.agencedusport.fr/)
       <span style="color:white">some *blue* text</span>
       [![img](/assets/images/logos/alltricks.jpg)](https://www.alltricks.fr/)
+      <span style="color:white">some *blue* text</span>
+      [![img](/assets/images/logos/au-petit-chez-soi-2.jpg)](https://aupetitchezsoi.eatbu.com/?lang=fr)
       [![img](/assets/images/logos/auto-ecole-corneille.jpg)](https://www.facebook.com/autoecolecorneilleconduite)
       [![img](/assets/images/logos/lbdv.png)](https://www.lbvelo.fr/)
       [![img](/assets/images/logos/carrefour-cropped.jpg)](https://www.carrefour.fr/)
