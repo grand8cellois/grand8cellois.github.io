@@ -36,7 +36,7 @@ La prochaine édition aura lieu le
 En 2025,
 nous vous proposons des **parcours VTT balisés** de 15 à 45km,
 des **parcours VTT non balisés** de 55 à 80km,
-et un **parcours gravel** de 65km.
+et un **parcours gravel** de 70km.
 
 Le point de départ et d'arrivée se situe au [Stade Pierre Corneille](/situation/)
 à La Celle Saint-Cloud,
