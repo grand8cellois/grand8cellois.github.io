@@ -3,10 +3,6 @@ layout: single
 classes: wide
 title: Traces
 permalink: /ohK5dibi/
-redirect_from:
-  - /traces10-54km_beLb-41F
-  - /traces70-80km_gil-e_47A
-  - /traces65km_Ge2Buip1
 header:
   overlay_image: /assets/images/bandeaux/Marly-processed.webp
 ---
