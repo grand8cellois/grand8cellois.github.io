@@ -84,14 +84,14 @@ point de départ.
 
 Le parcours de 15km, entièrement balisé,
 est adapté aux familles avec enfants.
-Son dénivelé positif est de 160m environ.
+Son dénivelé positif est de 225m environ.
 Il emprunte les bois de la Châtaigneraie et de Beauregard.
 
 {% include gallery id="gallery30" %}
 
 Le parcours de 30km, entièrement balisé,
 est plus exigeant.
-Son dénivelé positif est de 400m environ.
+Son dénivelé positif est de 515m environ.
 Au parcours précédent, il ajoute un tour en forêt de Fausses-Reposes
 et un passage par le bois de Louveciennes.
 
@@ -100,7 +100,7 @@ et un passage par le bois de Louveciennes.
 Le parcours de 45km, entièrement balisé,
 s'adresse aux sportifs confirmés,
 en bonne forme physique.
-Son dénivelé positif est de 700m environ.
+Son dénivelé positif est de 775m environ.
 Au parcours précédent, il ajoute un passage
 par la forêt de Marly et le parc de Marly.
 Un ravitaillement est situé au kilomètre 27.
@@ -122,20 +122,20 @@ L'inscription est limitée à 50 participants sur chacun de ces parcours.
 
 Comparé au parcours précédent,
 le parcours de 55km effectue une incursion plus profonde en forêt de Marly.
-Son dénivelé positif est de 900m environ.
+Son dénivelé positif est de 975m environ.
 
 {% include gallery id="gallery65" %}
 
 Comparé au parcours précédent,
 le parcours de 65km pousse encore un peu plus loin en forêt de Marly.
-Son dénivelé positif est de 1100m environ.
+Son dénivelé positif est de 1235m environ.
 
 {% include gallery id="gallery80" %}
 
 Comparé aux parcours précédents,
 le parcours de 80km pousse au-delà de la forêt de Marly,
 à travers les bois des Flambertins et d'Abbécourt.
-Son dénivelé positif est de 1300m environ.
+Son dénivelé positif est de 1380m environ.
 
 ## Parcours Gravel non balisé
 
