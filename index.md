@@ -36,19 +36,9 @@ Voici les [photos](http://photos.app.goo.gl/LCauYQE4dTrfo7sR8)
 prises par Laurent Lecocq.
 
 En 2025,
-nous vous proposons des **parcours VTT balisés** de 15 à 45km,
+nous vous proposions des **parcours VTT balisés** de 15 à 45km,
 des **parcours VTT non balisés** de 55 à 80km,
 et un **parcours gravel** de 70km.
-
-Des **flyers Alltricks**,
-permettant une réduction de 10 euros à partir de 100 euros d'achat,
-valables jusqu'au 21/11/2025 et limités à 300 personnes,
-seront distribués sur place.
-
-Sur place,
-l'école de cyclisme <a href="https://www.moniteurcycliste.com/">MCF</a>
-organisera des **exercices de maniement du vélo**:
-pilotage, franchissement d'obstacles, etc.
 
 Le point de départ et d'arrivée se situe au [Stade Pierre Corneille](/situation/)
 à La Celle Saint-Cloud,
