@@ -30,8 +30,10 @@ Le Grand Huit Cellois est **une randonnée VTT ouverte à tous**. Il a lieu
 chaque année **à l'automne** au départ de **La Celle Saint-Cloud**
 (Yvelines, France).
 
-La prochaine édition aura lieu le
-**dimanche 21 septembre 2025**.
+La dernière édition a eu lieu le
+dimanche 21 septembre 2025.
+Voici les [photos](http://photos.app.goo.gl/LCauYQE4dTrfo7sR8)
+prises par Laurent Lecocq.
 
 En 2025,
 nous vous proposons des **parcours VTT balisés** de 15 à 45km,
